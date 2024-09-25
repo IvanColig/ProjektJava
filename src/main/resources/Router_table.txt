@@ -1,0 +1,5 @@
+Mini-250,12345678,100,Asus
+Home 12L,23456789,120,Huawei
+Galaxy route 4+,34567890,250,Samsung
+Bad 12,45678901,80,HP
+Intel Router,56789012,110,Intel
